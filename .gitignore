@@ -1,5 +1,7 @@
 /src/spectra/spectra.sln
 
+*.idea/
+
 # Specific to the EFCore-Blazor sample app
 *.db
 *.db-shm
@@ -19,6 +21,7 @@ _site/
 !.vscode/extensions.json
 !.vscode/settings.json
 *.userprefs
+launchSettings.json
 
 # Build results
 [Dd]ebug/
@@ -31,9 +34,6 @@ build/
 bld/
 [Bb]in/
 [Oo]bj/
-
-# Visual Studo 2015 cache/options directory
-.vs/
 
 
 *_i.c
