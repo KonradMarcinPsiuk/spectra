@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spectra", "spectra\spectra.csproj", "{2B0215D5-68DF-4FC5-99BC-27B11A49BCB1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spectra.lib", "spectra.lib\spectra.lib.csproj", "{A20D2310-5768-44F2-8803-D15EE8E243A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spectra.tool", "spectra.tool\spectra.tool.csproj", "{09A10B48-BFE3-4B35-BA36-1CA5BA0AF61E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{2B0215D5-68DF-4FC5-99BC-27B11A49BCB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B0215D5-68DF-4FC5-99BC-27B11A49BCB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B0215D5-68DF-4FC5-99BC-27B11A49BCB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A20D2310-5768-44F2-8803-D15EE8E243A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A20D2310-5768-44F2-8803-D15EE8E243A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A20D2310-5768-44F2-8803-D15EE8E243A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A20D2310-5768-44F2-8803-D15EE8E243A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09A10B48-BFE3-4B35-BA36-1CA5BA0AF61E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09A10B48-BFE3-4B35-BA36-1CA5BA0AF61E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09A10B48-BFE3-4B35-BA36-1CA5BA0AF61E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09A10B48-BFE3-4B35-BA36-1CA5BA0AF61E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
