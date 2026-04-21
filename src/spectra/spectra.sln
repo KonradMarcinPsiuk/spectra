@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spectra.lib", "spectra.lib\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spectra.tool", "spectra.tool\spectra.tool.csproj", "{09A10B48-BFE3-4B35-BA36-1CA5BA0AF61E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spectra.tests", "spectra.tests\spectra.tests.csproj", "{EC5DD587-99F0-47DE-B9A0-D9DEBF520C90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{09A10B48-BFE3-4B35-BA36-1CA5BA0AF61E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09A10B48-BFE3-4B35-BA36-1CA5BA0AF61E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09A10B48-BFE3-4B35-BA36-1CA5BA0AF61E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC5DD587-99F0-47DE-B9A0-D9DEBF520C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC5DD587-99F0-47DE-B9A0-D9DEBF520C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC5DD587-99F0-47DE-B9A0-D9DEBF520C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC5DD587-99F0-47DE-B9A0-D9DEBF520C90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
